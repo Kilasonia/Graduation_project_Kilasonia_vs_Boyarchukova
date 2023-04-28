@@ -1,1 +1,1 @@
-![alt text](https://avatars.mds.yandex.net/i?id=05fa6833eed1cb0e48cc90e345681343c0ca50e3-9212030-images-thumbs&n=13)
+![alt text](https://avatars.mds.yandex.net/i?id=cd7447925995813d19a473a4054a423c68596615-8496934-images-thumbs&n=13)
