@@ -1,9 +1,15 @@
-![alt text](https://ruseshop.ru/images/novosti/ruseshop05.jpg)
-
-
 # **Дипломный проект студентов GeekBrains**
 
 ## Создатели: Киласония Дмитрий Геннадьевич, Боярчукова Ирина Сергеевна.
+
+
+# Структура проекта: Создание интернет магазина с товарами и услугами на базе социальной сети Вконтакте :white_check_mark: 
+
+![alt text](https://ruseshop.ru/images/novosti/ruseshop05.jpg)
+
+
+
+
 
 
 
