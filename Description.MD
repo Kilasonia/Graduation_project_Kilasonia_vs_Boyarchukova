@@ -22,7 +22,7 @@
 5. Приступить к созданию проекта.
 
 
-### Инструменты: Платформа VK, Python, Exel, Google Sheets, MySQL Workbench 8.0 CE.
+### Инструменты: Платформа VK, Python, Exel, Google Sheets, MySQL Workbench 8.0 CE, mpstats.
 
 
 
