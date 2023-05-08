@@ -22,13 +22,13 @@
 5. Приступить к созданию проекта.
 
 
-### Инструменты: Платформа VK, Python, Exel, Google Sheets, MySQL Workbench 8.0 CE, mpstats, Git, Visual Studio Code.
+### Инструменты: Платформа VK, Python, Exel, Google Sheets, MySQL Workbench 8.0 CE, Git, Visual Studio Code.
 
 ### Структура дипломного проекта:
 
 ***Оглавление***
 
-***Введение(2-3 стрю)***
+***Введение***
 
 ***Содержание***
 
